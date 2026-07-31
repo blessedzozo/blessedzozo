@@ -2,7 +2,7 @@
 # Welcome to “Heaven !” ⋮ ⌗ ┆🪽ʚ 
 
 <div align="center">
-  <img src="YOUR_PONY_GIF_OR_IMAGE_URL_HERE" width="150" alt="My Main Pony">
+  <img src="https://i.pinimg.com/736x/3d/a2/bc/3da2bc86ecf89f3435d641cd59f0e04.jpg" width="150" alt="My Main Pony">
   <h3> Hi, I'm 𝒷𝓁ℯ𝓈𝓈 </h3>
   <p>🕒 Timezone: [Your Timezone, e.g., EST] | 🟢 Status: Active / In-game</p>
 </div>
