@@ -3,8 +3,11 @@
 ### Welcome to “Heaven !” ⋮ ⌗ ┆🪽ʚ 
 
 
-🍰𝒮 𝒽 ℯ ／ℋ ℯ 𝓇 🍓
+she/her, 18
 under 15 dni
+i dont care about formatting and aesthetic shi
+hopefully a nice person but if i dont interact i dont want to
+
 
 
 
