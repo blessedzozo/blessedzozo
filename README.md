@@ -5,8 +5,8 @@
 
   # Welcome to “Heaven !” ⋮ ⌗ ┆🪽ʚ 
 
-  
-  <img src="https://i.pinimg.com/736x/3d/a2/bc/3da2bc86ecf89f3435d641cd59f0e04.png" width="150" alt="# Welcome to “Heaven !” ⋮ ⌗ ┆🪽ʚ ">
+![Project Dashboard](images/screenshot.png)
+ 
   <h3> 𝒷𝓁𝑒𝓈𝓈 / 𝓉𝓌𝒾𝓃𝓀 ¹⁸ ,, </h3>
   <p>🕒 Timezone: [Your Timezone, e.g., EST] | 🟢 Status: Active / In-game</p>
 </div>
